@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Finance\\Finance_001\\GenericBots\\EssplDatabaseBot","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Finance\\Finance_001\\GenericBots\\EssplDatabaseBot","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Finance\\Finance_001\\GenericBots\\ReadConfig"]}
